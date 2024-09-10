@@ -44,7 +44,7 @@ function UpdateSelectedCity(event) {
             "h:mm:ss"
           )} <small>${cityTime.format("A")}</small></div>
         </div> </br>
-<a href="/">All cities</a>
+<a href="/" class="all-cities-link" >All cities</a>
         
   `;
 }
